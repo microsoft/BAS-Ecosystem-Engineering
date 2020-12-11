@@ -1,4 +1,4 @@
-# Triage, Handoff and Escalation sample scenario 
+# Bot Triage, Handoff and Escalation to a human agent in Patient Service Center sample scenario 
 This repository contains a healthbot service(.hbs) file which consists of some sample Assets (such as Scenarios and Language models) required to quickly demonstrate the integration of Microsoft Health Bot service with Microsoft Cloud for Healthcare solutions.
 
 It provides an example of a multi-turn welcome scenario, a patient triage scenario and the ability to escalate a conversation to a human agent in Patient Service Center at any point during the conversation. 
