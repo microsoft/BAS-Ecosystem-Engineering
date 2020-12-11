@@ -1,14 +1,6 @@
-# Project
+# Introduction
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
-
-As the maintainer of this project, please make a few updates:
-
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+We are the Microsoft Business Applications Solutions Ecosystem Engineering team, which is part of Microsoft Business Applications Group. We work side by side with the teams responsible for technologies such as the Microsoft Cloud for Healthcare, Dataverse, Power Platform, Azure API for FHIR, Healthcare bot service and more. Through our POCs and collaboration with the product teams, we bring you these reference samples.\n\nAs we work with customers, partners, and co-workers, we frequently come across requests for samples for end to end demos/implementations of our solutions. For example, how can I demonstrate the triage process and agent escalation scenario in Patient Portal Chat? These questions and scenarios then become the basis for our samples and code snippets. We generalize the design for greater suitability and impact.\n\nAs you look through this repository, which will be updated over time, you will see some typical 'hello world' examples as well as more complex solutions. We conduct peer reviews to bring you the best practices for using the Microsoft technologies.\n\nWe invite you to ask questions, make suggestions and share use cases which we might consider for future reference architectures or implementations.
 
 ## Contributing
 
