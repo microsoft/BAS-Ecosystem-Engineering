@@ -18,7 +18,7 @@ __NOTE: The Microsoft Health Bot service must be configured in the same Azure Ac
 1.	Download the repository into your local folder.
 2.	On the top right corner, click on Settings and then click on Restore button.
 
-![](./BAS-Ecosystem-Engineering/Microsoft-Cloud-For-Healthcare/Healthbot-Service-Samples/Triage-Handoff-Escalation/Images/SettingsScreen.png)
+![](../BAS-Ecosystem-Engineering/Microsoft-Cloud-For-Healthcare/Healthbot-Service-Samples/Triage-Handoff-Escalation/Images/SettingsScreen.png)
  
 3.	Use the file picker to locate the downloaded hbs file, type Restore in the bottom field and click on Restore button.
 
